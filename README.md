@@ -16,8 +16,13 @@ GitBash version 2.28.0.windows.1
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
+![Pic 1](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_school_type_perf.PNG)
+![Pic 2](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_school_type_perf.PNG)
+
+no change -- need to go back and check where i got the images
 
 ### How is the school summary affected?
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -27,8 +32,18 @@ GitBash version 2.28.0.windows.1
 
 ### Scores by school spending
 
+get pic of the decimals - not formated 
+
 ### Scores by school size
+![Pic 4](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_school_size_perf.PNG)
+![Pic 5](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_school_size_perf.PNG)
+
+git pic of decimals - not formatted
 
 ### Scores by school type
+
+![Pic 6](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_school_type_perf.PNG)
+![Pic 7](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_school_type_perf.PNG)
+
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
