@@ -16,10 +16,11 @@ GitBash version 2.28.0.windows.1
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
-The district strated out with 39170 students.  However, to remove the 9th grade class at Thomas High School, 461 students' scores were made null giving the new district total of 38709 students.  Removing less than 500 students from a large data set will have a nomial impact in the calculations.  
+![Pic 1](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_dist_summary_3_decimals.PNG)
+![Pic 2]()
+The district strated out with 39170 students.  However, to remove the 9th grade class at Thomas High School, 461 students' scores were made null.  Removing less than 500 students from a large data set will have a nomial impact on the calculations.  The average of the math and reading test scores showed slight change in the hundreths places. 
 
-Reveiw images
-81.87 to 81.85 and the average math score changed from 78.98 to 78.93. 
+
 
 no change -- need to go back and check where i got the images
 
