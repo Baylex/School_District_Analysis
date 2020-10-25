@@ -28,8 +28,22 @@ When comparing the two charts, removing less than 500 test scores had a nominal 
 
 ### How is the school summary affected?
 
+In the original anlaysis, Thomas High School school started with a 91% overall passing rate, which was a concern to the school board as being too high.  After calculationg the total number of 10th - 12th grade students as the new denominator, the rest of the testing data was adjusted accordingly.  
+
+Original Analysis:
+![Pic 3](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_THS_90.PNG)
+
+Adjusted Analysis:
+![Pic 4](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_THS_65.PNG)
+
+Removing the 9th grade students from the data set had a huge impact in the overall score, dropping from 91% to 65% for the overall passing rate. 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+top 5 after adjustment 
+
+![Pic 6](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_top_5_schools.PNG)
 
 ### How does replacing the ninth-grade scores affect the following:
 
