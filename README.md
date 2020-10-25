@@ -56,12 +56,12 @@ Adjusted Analysis:
 
 #### Adjusted Math and Reading Scores 
 
-Adjusted Average Math Scores:                         Adjusted Average Reading Scores:
+In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests. 
+Now the scores have been replaced with null values and shows up in Python programming as NAN in the following charts. 
 
+Adjusted Average Math Scores and Adjusted Average Reading Scores: 
 ![Pic 7](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_math_by_grade_HS.PNG)
 ![Pic 8](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_read_by_grade_HS_correct.PNG)
-
-
 
 ### Scores by school spending
 
