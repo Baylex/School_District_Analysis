@@ -44,15 +44,17 @@ In the original analysis, Thomas High School ranked 2nd in the district raising 
 Original Analysis:
 ![Pic 5](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_top_5_schools.PNG)
 
-After readjusting their data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom. 
+After adjusting the 9th grade data, Thomas High School ranked in the exact middle of 15 campuses at 8th from the bottom. 
 
 Adjusted Analysis:
 ![Pic 6](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_bottom_8_schools.PNG)
 
 ## How does replacing the ninth-grade scores affect the following:
 
-
 ### Math and reading scores by grade
+#### Math 
+![Pic 7](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_math_by_grade_HS.PNG)
+![Pic 8](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_read_by_grade_HS.PNG)
 
 ### Scores by school spending
 
