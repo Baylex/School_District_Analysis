@@ -66,18 +66,20 @@ Adjusted Average Math Scores ---------------------------------------------------
 
 ### Scores by school spending
 
-get pic of the decimals - not formated 
+![Pic 9](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_spend_updated.PNG)
+![Pic 10](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_spending_updated.PNG)
+
 
 ### Scores by school size
-![Pic 4](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_school_size_perf.PNG)
-![Pic 5](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_school_size_perf.PNG)
+![Pic 11](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_size_updated.PNG)
+![Pic 12](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_size_updated.PNG)
 
 git pic of decimals - not formatted
 
 ### Scores by school type
 
-![Pic 6](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_school_type_perf.PNG)
-![Pic 7](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_school_type_perf.PNG)
+![Pic 13](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_type_updated.PNG)
+![Pic 14](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_type_updated.PNG)
 
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
