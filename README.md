@@ -23,7 +23,7 @@ The testing data of 461 9th graders at Thomas High School was turned into null d
 
 ![Pic 2](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_dist_sum_2_decimals.PNG)
 
-
+When comparing the two charts, removing less than 500 test scores had a nominal impact on the almost 40,000 student data set.  The change was less than a 1% difference and the numbers would still round to the same whole number.  
 
 ### How is the school summary affected?
 
