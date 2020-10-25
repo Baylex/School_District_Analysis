@@ -55,9 +55,10 @@ Adjusted Analysis:
 
 
 #### Adjusted Math and Reading Scores 
-Adjusted Average Math Scores: 
+
+Adjusted Average Math Scores:                         Adjusted Average Reading Scores:
+
 ![Pic 7](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_math_by_grade_HS.PNG)
-Adjusted Average Reading Scores:
 ![Pic 8](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_read_by_grade_HS_correct.PNG)
 
 
