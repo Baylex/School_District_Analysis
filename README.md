@@ -4,14 +4,14 @@
 A school district asked for a snapshot of several key metrics by each school campus and by the district level.  The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating.  The school board asked for the data to be removed and analyzed again for a comparison. 
 
 ## PythonData Environment
-Anaconda version 1.7.2
-Conda version 4.9.0
-Jupyter-Notebook version 6.1.4
-ipykernal version 5.3.4
-Python version 3.7.7
-Pandas version 1.1.3
-Numpy version 1.19.1
-GitBash version 2.28.0.windows.1
+#### Anaconda version 1.7.2
+#### Conda version 4.9.0
+#### Jupyter-Notebook version 6.1.4
+#### ipykernal version 5.3.4
+#### Python version 3.7.7
+#### Pandas version 1.1.3
+#### Numpy version 1.19.1
+#### GitBash version 2.28.0.windows.1
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -67,8 +67,10 @@ Adjusted Average Math Scores ---------------------------------------------------
 ### Scores by school spending
 
 Thomas High School falls in the $630-$644/student spending range.  However, the hundreths place was needed to see the nominal changes. 
+
 Original Analysis:
 ![Pic 9](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_spend_updated.PNG)
+
 Adjusted Analysis:
 ![Pic 10](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_spending_updated.PNG)
 
@@ -77,7 +79,10 @@ There was very little spending impact by changing the 9th grade scores.
 ### Scores by school size
 Thomas High School is defined as a medium sized school.  The hundreths place was needed to see the nominal changes.
 
+Original Analysis:
 ![Pic 11](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_size_updated.PNG)
+
+Adjusted Analysis:
 ![Pic 12](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_size_updated.PNG)
 
 There was very little impact by campus size due to changing the 9th grade scores. 
@@ -86,11 +91,23 @@ There was very little impact by campus size due to changing the 9th grade scores
 
 Thomas High School is a charter school type. The hundreths place was needed to see the nominal changes.
 
+Original Analysis:
 ![Pic 13](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/1_type_updated.PNG)
+
+Adjusted Analysis:
 ![Pic 14](https://github.com/Baylex/School_District_Analysis/blob/main/Resources/2_type_updated.PNG)
 
 There was very little impact by school type by changing the 9th grade scores. 
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+1. 
+
+2.
+
+3.
+
+4. 
+
 
 
