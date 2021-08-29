@@ -1,6 +1,9 @@
 # School_District_Analysis_Challenge
 UT McCombs Data Boot Camp Module 4: PyCitySchools with Pandas
 
+## Purpose
+A school district asked for a snapshot of several key metrics by each school campus and by the district level.  The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating.  The school board asked for the data to be removed and analyzed again for a comparison. 
+
 ## Overview
 1. Open Jupyter Notebook files from local directories using a development environment.
 2. Read an external CSV file into a DataFrame.
@@ -11,9 +14,6 @@ UT McCombs Data Boot Camp Module 4: PyCitySchools with Pandas
 7. Apply the groupby() function to a DataFrame.
 8. Use multiple methods to perform a function on a DataFrame.
 9. Perform mathematical calculations on columns of a DataFrame or Series.
-
-## Purpose
-A school district asked for a snapshot of several key metrics by each school campus and by the district level.  The main analysis focused on the performance of math and reading scores disaggregated several ways in preparation for a board meeting.  However, after the school board reviewed the data, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating.  The school board asked for the data to be removed and analyzed again for a comparison. 
 
 ## PythonData Environment
 1. Anaconda version 1.7.2
